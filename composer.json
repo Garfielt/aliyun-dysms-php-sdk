@@ -1,5 +1,5 @@
 {
-    "name": "Garfielt/aliyun-dysms-php-sdk",
+    "name": "garfielt/aliyun-dysms-php-sdk",
     "description": "Aliyun SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk" ],
     "type": "library",
